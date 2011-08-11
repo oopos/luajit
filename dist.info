@@ -1,0 +1,17 @@
+type = "x86"
+arch = "Windows"
+author = "Mike Pall"
+desc = "LuaJIT is JIT compiler for the Lua language."
+name = "luajit"
+conflicts = {
+[[lua]],
+}
+
+version = "1.1.7"
+maintainer = "Peter Drahoš"
+url = "http://www.luajit.org"
+provides = {
+[[lua-5.1.4]],
+}
+
+license = "MIT/X11"
