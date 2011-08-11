@@ -7,7 +7,7 @@ conflicts = {
 [[lua]],
 }
 
-version = "1.1.7"
+version = "2.0.0-beta8"
 maintainer = "Peter Drahoš"
 url = "http://www.luajit.org"
 provides = {
